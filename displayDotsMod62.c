@@ -1,6 +1,8 @@
 /*
   Fontname: DisplayDotsMod62
-  Copyright: 
+  Based off of DustBust (Andreas Nylin) - Display Dots
+  https://www.dafont.com/display-dots.font
+  
   Capital A Height: 38, '1' Height: 54
   Calculated Max Values w=38 h=54 x= 3 y=24 dx=44 dy= 0 ascent=54 len=216
   Font Bounding box     w=60 h=61 x= 0 y=-8
